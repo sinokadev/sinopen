@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1794806792
-ModificationTime: 1794969374
+ModificationTime: 1794969535
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -103,13 +103,13 @@ LayerCount: 2
 Fore
 SplineSet
 85 311 m 0
- 85 424 55 626 55 680 c 0
- 55 697 58 707 60 711 c 0
- 64 720 75 725 85 725 c 0
- 96 725 106 719 108 715 c 0
- 114 705 117 643 123 618 c 0
- 130 588 134 500 140 466 c 0
- 148 423 152 300 152 298 c 0
+ 85 424 74 626 74 680 c 0
+ 74 697 77 707 79 711 c 0
+ 83 720 94 725 104 725 c 0
+ 115 725 125 719 127 715 c 0
+ 133 705 141 644 142 618 c 0
+ 143 588 147 501 149 466 c 0
+ 152 424 152 300 152 298 c 0
  152 297 151 297 149 252 c 0
  146 197 144 187 125 181 c 0
  118 178 114 178 112 178 c 0
@@ -125,12 +125,11 @@ SplineSet
  170 65 170 61 169 57 c 0
  162 13 113 5 102 5 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0022
 Encoding: 34 34 2
-AltUni2: 00201d.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0
+AltUni2: 00201c.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0
 Width: 342
 GlyphClass: 1
 Flags: HW
@@ -426,7 +425,7 @@ EndChar
 
 StartChar: uni0027
 Encoding: 39 39 7
-AltUni2: 002019.ffffffff.0 002018.ffffffff.0 002019.ffffffff.0 002018.ffffffff.0
+AltUni2: 002018.ffffffff.0 002019.ffffffff.0 002018.ffffffff.0 002019.ffffffff.0
 Width: 185
 GlyphClass: 1
 Flags: HW
@@ -627,7 +626,7 @@ EndChar
 
 StartChar: uni002D
 Encoding: 45 45 13
-AltUni2: 002212.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0 002212.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0
+AltUni2: 002010.ffffffff.0 002011.ffffffff.0 002212.ffffffff.0 002010.ffffffff.0 002011.ffffffff.0 002212.ffffffff.0
 Width: 428
 GlyphClass: 1
 Flags: HW
