@@ -1,5 +1,7 @@
 # Sinopen — Sinoka's Handwritten Font
 
+![](./image.png)
+
 This is my first custom font, so there might be a few rough edges or errors. Issues and pull requests are always welcome!
 
 ## About
