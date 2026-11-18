@@ -3,8 +3,8 @@ FontName: Sinopen-Regular
 FullName: Sinopen Regular
 FamilyName: Sinopen
 Weight: Regular
-Copyright: Copyright (c) 2026, SinokaDev (https://sinoka.dev),\nwith Reserved Font Name Sinopen.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n"Font Software" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n"Reserved Font Name" refers to any names specified as such after the\ncopyright statement(s).\n\n"Original Version" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n"Modified Version" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n"Author" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n
-Version: Version 1.001
+Copyright: Copyright (c) 2026, SinokaDev (https://sinoka.dev)\n
+Version: Version 1.002
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1794806792
-ModificationTime: 1794971101
+ModificationTime: 1794971422
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 38 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 550912 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -131,7 +131,7 @@ EndChar
 
 StartChar: uni0022
 Encoding: 34 34 2
-AltUni2: 00201c.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0
+AltUni2: 00201d.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0
 Width: 342
 GlyphClass: 1
 Flags: HW
@@ -427,7 +427,7 @@ EndChar
 
 StartChar: uni0027
 Encoding: 39 39 7
-AltUni2: 002018.ffffffff.0 002019.ffffffff.0 002018.ffffffff.0 002019.ffffffff.0
+AltUni2: 002019.ffffffff.0 002018.ffffffff.0 002019.ffffffff.0 002018.ffffffff.0
 Width: 185
 GlyphClass: 1
 Flags: HW
@@ -628,7 +628,7 @@ EndChar
 
 StartChar: uni002D
 Encoding: 45 45 13
-AltUni2: 002010.ffffffff.0 002011.ffffffff.0 002212.ffffffff.0 002010.ffffffff.0 002011.ffffffff.0 002212.ffffffff.0
+AltUni2: 002212.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0 002212.ffffffff.0 002011.ffffffff.0 002010.ffffffff.0
 Width: 428
 GlyphClass: 1
 Flags: HW
@@ -745,11 +745,12 @@ LayerCount: 2
 Fore
 SplineSet
 220 442 m 0
- 220 496 225 583 225 584 c 0
- 225 588 225 589 224 589 c 0
- 219 589 203 543 168 543 c 0
- 152 543 139 552 139 567 c 0
- 139 589 166 600 203 669 c 0
+ 220 496 225 576 225 577 c 0
+ 225 581 225 582 224 582 c 0
+ 220.543510249 582 193 543 178 524.580078125 c 0
+ 171.030273438 516.020507812 162.361328125 516 146 516 c 0
+ 130 516 117 525 117 540 c 0
+ 117 562 166 600 203 669 c 0
  217 695 220 695 225 705 c 0
  230 713 234 724 236 728 c 0
  245 749 263 749 263 749 c 2
@@ -783,7 +784,6 @@ SplineSet
  221 284 223 354 223 373 c 0
  223 396 220 401 220 442 c 0
 EndSplineSet
-Validated: 1
 Kerns2: 89 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -43 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -38 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -28 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -45 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 44 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -1385,17 +1385,17 @@ SplineSet
  704 44 649 3 526 3 c 0
  452 3 374 18 303 53 c 0
  253 77 225 102 203 116 c 0
- 199 119 51 216 51 345 c 0
- 51 356 52 360 52 379 c 0
- 52 398 53 398 60 423 c 0
- 76 476 77 495 85 510 c 0
- 89 517 97 535 142 604 c 0
+ 199 119 66 216 66 345 c 0
+ 66 356 67 360 67 379 c 0
+ 67 398 66.9697265625 397.118164062 69 423 c 0
+ 73 474 85 494 92 510 c 4
+ 95.2314453125 517.38671875 97 535 142 604 c 0
  160 632 175 656 239 711 c 0
  257 727 271 740 303 756 c 0
  335 772 383 796 427 796 c 0
-132 427 m 0
- 125 407 119 381 119 355 c 0
- 119 308 138 259 189 213 c 0
+141 427 m 0
+ 136.844726562 406.221679688 134 381 134 355 c 0
+ 134 308 138 259 189 213 c 0
  206 198 219 183 317 120 c 0
  352 97 394 69 524 69 c 2
  537 69 l 2
@@ -1412,8 +1412,8 @@ SplineSet
  334 702 317 694 286 663 c 0
  271 648 256 635 237 615 c 0
  221 598 204 578 192 561 c 0
- 178 540 170 521 162 508 c 0
- 146 483 142 455 132 427 c 0
+ 178 540 168.621908027 521.753193596 162 508 c 0
+ 149 481 147 457 141 427 c 0
 687 274 m 0
  718 274 721 246 721 246 c 1
  721 220 698 214 698 214 c 2
@@ -1441,7 +1441,6 @@ SplineSet
  428 304 l 2
  428 346 398 457 364 457 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0041
@@ -3274,7 +3273,7 @@ EndChar
 
 StartChar: uni0068
 Encoding: 104 104 72
-Width: 592
+Width: 590
 GlyphClass: 1
 Flags: HW
 LayerCount: 2
@@ -3292,12 +3291,12 @@ SplineSet
  241 535 270 542 300 542 c 0
  322 542 346 538 363 529 c 1
  399 516 452 442 472 404 c 0
- 513 324 553 119 553 42 c 0
- 553 26 553 3 520 1 c 1
- 495 6 494 12 491 37 c 0
- 487 68 476 159 475 163 c 0
- 474 173 442 325 412 380 c 0
- 398 407 369 439 365 443 c 4
+ 513 324 517 119 517 42 c 0
+ 517 26 517 3 484 1 c 1
+ 459 6 458 12 455 37 c 0
+ 451 68 445 159 444 163 c 0
+ 443 173 442 325 412 380 c 0
+ 398 407 369 439 365 443 c 0
  359 448 330 463 304 463 c 0
  283 463 257 454 206 402 c 0
  181 377 163 363 163 284 c 0
@@ -3309,7 +3308,6 @@ SplineSet
  118 6 102 15 99 25 c 0
  97 34 96 75 96 112 c 0
 EndSplineSet
-Validated: 1
 Kerns2: 84 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -3590,9 +3588,9 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-97 -174 m 0
- 71 -174 66 -141 66 -87 c 0
- 66 -19 74 -4 74 58 c 0
+102 -174 m 0
+ 76 -174 71 -141 71 -87 c 0
+ 71 -19 74 -4 74 58 c 0
  74 120 82 93 82 168 c 0
  82 227 87 393 88 469 c 0
  88 490 88 515 88 517 c 0
@@ -3608,9 +3606,9 @@ SplineSet
  442 159 371 81 332 62 c 0
  320 57 282 43 247 43 c 0
  181 43 158 92 150 92 c 0
- 147 92 146 87 145 74 c 4
- 143 28 122 -127 118 -146 c 4
- 116 -157 116 -174 97 -174 c 0
+ 147 92 146 87 145 74 c 0
+ 143 28 138 -127 134 -146 c 4
+ 132 -157 121 -174 102 -174 c 0
 172 389 m 0
  166 370 162 342 162 310 c 0
  162 220 190 105 256 105 c 0
@@ -3622,7 +3620,6 @@ SplineSet
  299 478 261 474 233 459 c 0
  229 457 187 435 172 389 c 0
 EndSplineSet
-Validated: 1
 Kerns2: 84 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
