@@ -1,5 +1,5 @@
 # Sinopen - Sinoka's Handwritten font
-
+This is the first font I’ve created, so there may be some errors. Pull requests and issues are welcome!
 
 ## License
 It is distributed under the OFL.
